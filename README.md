@@ -1,3 +1,5 @@
+$$ \frac{2}{3} $$
+
 # Hi there! 👋 I'm Mukul Waval
 
 I'm a passionate developer and explorer, diving deep into various fields, including:
