@@ -1,4 +1,4 @@
-$$ \frac{2}{3} $$
+$$\frac{2}{3}$$
 
 # Hi there! 👋 I'm Mukul Waval
 
