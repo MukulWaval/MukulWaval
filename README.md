@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Mukul Waval
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
 I'm a passionate developer and explorer, diving deep into various fields, including:
 
 - **Software Development** (C++, C#, TypeScript, JavaScript, Python)
