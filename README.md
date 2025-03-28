@@ -5,8 +5,7 @@ I'm a passionate developer and explorer, diving deep into various fields, includ
 - **Software Development** (C++, C#, TypeScript, JavaScript, Python)
 - **Compiler Design** (Building custom parsers and compilers)
 - **Web Development** (React, Next.js, Tailwind CSS, NestJS, MongoDB)
-- **Mobile Development** (React Native, Expo Router, NativeWind)
-- **Financial Advisory** (Creating tools for better financial well-being)
+- **Mobile Development** (React Native, Expo )
 - **Mountaineering & Trekking** (Documenting my experiences and routes)
 
 ## 🚀 Projects
@@ -14,8 +13,8 @@ I'm a passionate developer and explorer, diving deep into various fields, includ
 - **Indium Programming Language** – A custom programming language and its compiler
 - **8-Bit Computer Simulation** – Built from scratch using logic gates
 - **Obsidian Markdown Parser** – A C++ and C# parser for Obsidian notes
-- **Travel Guide Website** – Featuring top 50 countries and 150 cities
-- **Windows 11 Custom Desktop** – A personalized desktop experience
+- **Travel Guide Website**
+- **Aethermark** - A custom markdown dialect  processing library in python (c++ with pybind11)
 
 ## 🛠️ Tech Stack
 
